@@ -1,0 +1,9 @@
+ID,Name,Age,City,Date,Salary
+1,John,25,New York,01/02/2025,50000
+2,Alice,30,London,2025-03-05,60000
+3,Bob,,Paris,15-04-2025,45000
+4,john,25,New York,01/02/2025,50000
+5, Alice ,30,london,2025/03/05,
+6,,28,Berlin,20/05/2025,55000
+7,David,35,,2025-06-01,70000
+7,David,35,,2025-06-01,70000

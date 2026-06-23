@@ -1,0 +1,22 @@
+
+=================================
+      DATA CLEANING REPORT
+=================================
+
+Original Records : 8
+Final Records    : 7
+
+Tasks Completed:
+✓ Missing values handled
+✓ Duplicate records removed
+✓ Date formats standardized
+✓ Text standardized
+✓ Cleaned dataset generated
+
+Output File:
+data/cleaned_data.csv
+
+Status:
+Data cleaning completed successfully!
+
+=================================
